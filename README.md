@@ -11,16 +11,12 @@
 
 
 ## Terminology
-- Adapter:
-- Port:
-- Boundary:
-- Domain: 
-- Application:
-- Use Case:
-- Infrastructure:
-- Factories: 
-- Entity: 
-- Value Object: 
+- Adapter: The adapters, also called interface adapters, are the translators between the domain and the infrastructure.
+- Port: In application Layer, Port is an interface of Adapter.
+- Boundary: In application Layer, Boundary is an interface of Presenter.
+- Use Case: The use cases are the business rules for a specific application. 
+- Infrastructure: This layer is where all the I/O components go: the UI, database, frameworks, devices, etc.
+- Entity: An entity is a set of related business rules that are critical to the function of the application.
 
 
 ## Reference
