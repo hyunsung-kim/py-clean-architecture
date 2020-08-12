@@ -1,10 +1,25 @@
+<p align="center">
+    <img src="clean_arch.png">
+</p>
+# Clean Architecture
 
-Clean Architecture
+
+## 용어 및 기술
+- [Inject](https://github.com/ivankorobkov/python-inject)
+- [Term](https://pusher.com/tutorials/clean-architecture-introduction)
 
 
-[Inject](https://github.com/ivankorobkov/python-inject)를 사용하여 의존성을 추가해 주는 부분을 쉽게 대체하고 이를 구현한다. 
-[blog](https://velog.io/@jahoy/Python%EC%9C%BC%EB%A1%9C-Clean-Architecture-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)에서 정의한 부분을 구현해 보자.
-
+## Terminology
+- Adapter:
+- Port:
+- Boundary:
+- Domain: 
+- Application:
+- Use Case:
+- Infrastructure:
+- Factories: 
+- Entity: 
+- Value Object: 
 
 
 ## Reference
