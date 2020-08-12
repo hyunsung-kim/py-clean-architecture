@@ -6,6 +6,7 @@
 
 ## 용어 및 기술
 - [Inject](https://github.com/ivankorobkov/python-inject)
+- [dependency-injector](https://github.com/ets-labs/python-dependency-injector)
 - [Term](https://pusher.com/tutorials/clean-architecture-introduction)
 
 

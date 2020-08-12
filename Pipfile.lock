@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "976a2ca0f737f325f408ba96dbdd2082722d52709e42df5c38f7096e58a834da"
+            "sha256": "3022e292910779071cc92cecf7319ca3edf404889fe5916b1f4f2cab288e8085"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,12 +23,27 @@
             ],
             "version": "==19.3.0"
         },
+        "dacite": {
+            "hashes": [
+                "sha256:764c96e0304cb189628686689a163a6a3a8ce7bf3465f0a2d882a8b42f88108f",
+                "sha256:f7f269647ede90f8702728eb7dcb972051511c81b853a93c962fbd31f1753b9f"
+            ],
+            "index": "pypi",
+            "version": "==1.5.1"
+        },
         "iniconfig": {
             "hashes": [
                 "sha256:80cf40c597eb564e86346103f609d74efce0f6b4d4f30ec8ce9e2c26411ba437",
                 "sha256:e5f92f89355a67de0595932a6c6c02ab4afddc6fcdc0bfc5becd0d60884d3f69"
             ],
             "version": "==1.0.1"
+        },
+        "inject": {
+            "hashes": [
+                "sha256:21b4f841aa72a032ca2917c331e68d792f2c7b767091f55cefb57a3c11b965b8"
+            ],
+            "index": "pypi",
+            "version": "==4.3.0"
         },
         "more-itertools": {
             "hashes": [
